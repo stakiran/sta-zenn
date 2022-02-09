@@ -1,5 +1,8 @@
 # Zenn 記事用
-https://zenn.dev/sta
+- my url
+    - https://zenn.dev/sta
+- deploy status
+    - https://zenn.dev/dashboard/deploys
 
 # LICENSE
 ありません。
