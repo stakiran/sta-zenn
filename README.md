@@ -1,2 +1,2 @@
-# sta-zenn
-for zenn articles.
+# Zenn 記事用
+https://zenn.dev/sta
