@@ -3,7 +3,7 @@ title: "個人の振り返りは DWMY に振り返るとやりやすい"
 emoji: "🐰"
 type: "idea"
 topics: ["personalreview", "dwmy"]
-published: false
+published: true
 ---
 
 # はじめに
