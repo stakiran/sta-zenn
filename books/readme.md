@@ -1,0 +1,12 @@
+# Zenn books
+- 参考文献
+    - chapter をつくり、anchor link でリンクする
+- 同ファイルへのリンク
+    - 🔴 `[text](filename)`
+    - ❌ `[text](filename.md)`
+- 目次構造どうすべき？
+    - books 側で chapter を並べてくれる
+        - これはネストできない
+    - 各 chapter 内で、さらに toc を並べてくれる
+        - ここが toc_depth の部分
+        - title が H1 で、`# 大見出し` も H1 になるので、`## 中見出し` から始めるのが良いかも
