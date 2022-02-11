@@ -65,7 +65,7 @@ Ans: それはそのとおりである
 そういう意味で、Teeting は「対面会議だけが唯一ではない」というカウンターとも言えよう。
 
 ## Teeting の意義
-拘束については[コミュニケーションにおける「3つの拘束」](3_communication_restraint.md)も参照。
+拘束については[コミュニケーションにおける「3つの拘束」](https://stakiran.github.io/monolithic/3_communication_restraint.html) も参照。
 
 ### 拘束のゆるい打ち合わせ手段を提供できる
 - 会議は拘束が強い
