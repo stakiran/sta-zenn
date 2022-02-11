@@ -1,0 +1,15 @@
+title: "teeting"
+summary: "そろそろテキストミーティング(text + meeting = teeting)できんじゃねと思ったので、一案をまとめてみました。"
+topics: ["meeting", "teeting", "communication"]
+published: false
+price: 0
+toc_depth: 2
+chapters:
+  - notice
+  - about
+  - what-is-teeting
+  - components-of-teeting
+  - teeting-tools
+  - tafa
+  - cover-of-teeting
+  - ending
