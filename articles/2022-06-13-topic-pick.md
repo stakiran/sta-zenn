@@ -1,8 +1,8 @@
 ---
 title: "トピックシェアリングとトピックピック"
-emoji: "🐰"
+emoji: ""
 type: "idea"
-topics: ["Topicing"]
+topics: [""]
 published: false
 ---
 
