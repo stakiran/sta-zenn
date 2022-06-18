@@ -2,7 +2,7 @@
 title: "トピックシェアリングとトピックピック"
 emoji: ""
 type: "idea"
-topics: [""]
+topics: ["トピック指向","コミュニケーション","テキストコミュニケーション"]
 published: true
 ---
 
