@@ -3,7 +3,7 @@ title: "ソフトウェアだけではなくワークウェア(Workware)もい�
 emoji: "💡"
 type: "idea"
 topics: ["workware", "ワークウェア", "働き方", "役割"]
-published: false
+published: true
 ---
 
 # サマリー
