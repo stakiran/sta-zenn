@@ -1,5 +1,6 @@
 # ネタ
-breet
+箇条書きで書く
+emoji as a status
 chat and away
 雑談ならぬ雑残（ざつざん）
 報連相に馴染めなければ報連質議
