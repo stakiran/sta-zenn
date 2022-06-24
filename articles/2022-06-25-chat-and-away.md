@@ -1,5 +1,5 @@
 ---
-title: "Chat And Away"
+title: "Chat And Away(チャットアンドアウェイ)"
 emoji: "🏃"
 type: "idea"
 topics: ["chat","チャット","コミュニケーション"]
