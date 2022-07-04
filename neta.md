@@ -5,3 +5,4 @@ emoji as a status
 Timing Matching
 レイヤードディスカッション
 jectモデル
+CRC原則
