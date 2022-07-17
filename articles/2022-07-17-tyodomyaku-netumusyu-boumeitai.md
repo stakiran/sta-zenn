@@ -1,6 +1,6 @@
 ---
 title: "忘迷怠、熱夢集、調動脈"
-emoji: ""
+emoji: "🧍"
 type: "idea"
 topics: ["タスク管理"]
 published: true
