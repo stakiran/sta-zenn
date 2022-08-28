@@ -3,7 +3,7 @@ title: "3rd Party Storage が欲しい"
 emoji: "💾"
 type: "idea"
 topics: ["database", "saas", "storage"]
-published: false
+published: true
 ---
 
 # バックエンドを持つのがだるい問題
