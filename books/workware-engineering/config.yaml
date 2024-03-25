@@ -7,4 +7,5 @@ toc_depth: 2
 chapters:
   - 0_work
   - 0_about
+  - 1_whatis
   - ref
