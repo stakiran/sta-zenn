@@ -14,3 +14,6 @@ title: 参考文献
 
 ## 3
 [覚えてます？「ライフハック」の語源とそれに引き続くおかしな歴史 | Lifehacking.jp](https://lifehacking.jp/2017/11/lifehack-the-origin/)
+
+## 4
+[独学大全 絶対に「学ぶこと」をあきらめたくない人のための55の技法(読書猿 2020)](https://www.amazon.co.jp/dp/4478108536)
