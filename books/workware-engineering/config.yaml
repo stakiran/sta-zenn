@@ -5,7 +5,7 @@ published: false
 price: 0
 toc_depth: 2
 chapters:
-  - 0_work
   - 0_about
-  - 1_whatis
+  - 1_whatwhy
+  - 2_view
   - ref
