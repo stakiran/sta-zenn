@@ -37,3 +37,6 @@ Psychological Safety and Learning Behavior in Work Teams, Amy Edmondson(1999): h
 
 ## 9
 [The PARA Method: The Simple System for Organizing Your Digital Life in Seconds](https://fortelabs.com/blog/para/)
+
+## 10
+[リーン・スタートアップ(エリック・リース, 伊藤 穣一 2012)](https://www.amazon.co.jp/dp/4822248976)
